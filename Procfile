@@ -1,2 +1,3 @@
-worker: python bot_keuangan.py
+worker: python bot_catatankeuangan.py
+
 
