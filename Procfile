@@ -1,1 +1,1 @@
-web: python bot_catatankeuangan.py
+worker: python main.py
